@@ -2,8 +2,6 @@
 
 An end-to-end financial analytics and business intelligence project analyzing historical **Nasdaq-100 E-mini Futures (NQ)** opening-session price behavior (**09:30–11:30 ET**, 2010–2026). Built with a **Python ETL pipeline** (`pandas`, `pyarrow`) feeding a **5-table Star Schema** in **Power BI Desktop** using **Power Query (M)** and **DAX**.
 
-> *Note: Independent historical data analysis and BI engineering project for portfolio demonstration—not investment advice or a live trading system.*
-
 ---
 
 ## Project Overview
